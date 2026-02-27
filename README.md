@@ -32,15 +32,6 @@ I am an undergraduate student in information systems, a Python developer, and an
 
 </span>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ramiro-nunez/ramiro-nunez/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-----
-
 ## Check out my Social Media
 
 <a href= "https://www.instagram.com/rama_nunez6861/?hl=en">
