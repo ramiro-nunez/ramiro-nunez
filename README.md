@@ -4,7 +4,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBlMmg4N2dxM3VuY2s0MHZqNjhia3h5ZXVibm52anA1aHNzNDdtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYaNAHzdndDOZKo7iz/giphy.gif" width="40px">&nbsp;***About me***
 
-I am an undergraduate student in information systems, a Python developer, and an AI automation specialist. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate student in information systems, a Python developer, and an AI automation specialist (n8n). I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - JavaScript
 - 👯 I’m looking forward to collaborate on open source projects.
